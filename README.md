@@ -6,10 +6,10 @@ This project involves the analysis of SAT and ACT data, for the 50 US states (pl
 # Description of Data
 A total of 4 datasets were provided:
 
--2017 SAT
--2017 ACT
--2018 SAT
--2018 ACT
+- 2017 SAT
+- 2017 ACT
+- 2018 SAT
+- 2018 ACT
 
 Each dataset comprises state-wise data on participation rates, sub-test mean scores, and mean total/composite scores.
 
